@@ -5,7 +5,7 @@ import { getAuth } from "firebase/auth";
 import { getStorage } from "firebase/storage";
 import { getAnalytics } from "firebase/analytics";
 
-const firebaseConfig = {
+const firebaseConfig = {nn
     apiKey: "AIzaSyAEKtLTrPGPhb4FAI0lE5kFKHa7kpISnYk",
     authDomain: "sunlit-flag-288016.firebaseapp.com",
     projectId: "sunlit-flag-288016",

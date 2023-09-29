@@ -1,10 +1,10 @@
-# Instagram Firebase
+# Fendigram
 
 An Instagram Clone made up of React JS and Firebase 9.
 
 ## Live Website
 
-https://instagram-firebase.netlify.app/
+https://Fendigram.netlify.app/
 
 ## Home
 
