@@ -127,15 +127,7 @@ const Footer = () => {
                             <span className="font-semibold">
                                 &copy; {date.getFullYear()}
                             </span>{" "}
-                            Fendigram by{" "}
-                            <a
-                                href="https://www.instagram.com/sahilverma.dev/"
-                                target={"_blank"}
-                                rel="nofollow noopener noreferrer"
-                                className="font-semibold"
-                            >
-                                Sahil Verma
-                            </a>
+                            Fendigram by Nakama
                         </div>
                     </div>
                 </div>
