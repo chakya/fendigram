@@ -328,10 +328,9 @@ const HomePostCard = ({ post }) => {
                                     )}
                                 </b>
                                 <span className="font-normal">
-                                    {/* {comment?.comment?.length > 20 
-                    // ? `${comment?.comment?.slice(0, 20)}...`
-                    : */}
-                                    {comment?.comment}
+                                    {comment?.comment?.length > 20
+                                        ? `${comment?.comment?.slice(0, 20)}...`
+                                        : comment?.comment}
                                 </span>
                             </div>
                             {/* <div>{comment?.commentedAt?.toDate().toLocaleTimeString()}</div> */}
