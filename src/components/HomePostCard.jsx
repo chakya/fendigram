@@ -284,7 +284,9 @@ const HomePostCard = ({ post }) => {
                                 >
                                     {post?.user?.username}
                                 </Link>{" "}
+                                <span className="font-normal">
                                 {post?.caption}
+                                </span>
                             </div>
                         )}
                     </div>
